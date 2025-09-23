@@ -62,4 +62,14 @@ fn main() {
   println!("tup_idx_one is the first element in the tuple with the value of: {tup_idx_one}");
 
   // B. Array Type:
+  let arr = [1, 2, 3, 4, 5];
+  let months = ["January", "February", "March", "April", "May", "June", "July",
+              "August", "September", "October", "November", "December"];
+  let arr_two: [i32; 5] = [1, 2, 3, 4, 5]; // with type
+  // You can also init an array to contain the same value for each element by specifying the
+  // initial value, followed by a semicolon and then the length on the array
+  let arr_three = [3; 5]; // [3, 3, 3, 3, 3]
+
+  // Accessing index and assigning it to a variable:
+  let first_idx = arr[0];
 }
