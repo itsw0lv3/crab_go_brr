@@ -1,4 +1,5 @@
 # Doing the RustBook
+Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.html), from the rust-lang.
 
 ## Completed
  - [X] Getting Started
