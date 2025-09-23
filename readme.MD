@@ -10,7 +10,7 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
    - [X] Variables and Mutability
    - [X] Data Types
    - [X] Functions
-   - [ ] Comments
+   - [X] Comments
    - [ ] Control Flow
  - [ ] Understanding Ownership
 
