@@ -13,4 +13,25 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
  - [ ] Understanding Ownership
 
 ## TODO:
-- Clean up directory to follow book chapters
+- ~~Complete Ch01~~
+- ~~Complete Ch02~~
+- Complete Ch03
+- Complete Ch04
+- Complete Ch05
+- Complete Ch06
+- Complete Ch07
+- Complete Ch08
+- Complete Ch09
+- Complete Ch10
+- Complete Ch11
+- Complete Ch12
+- Complete Ch13
+- Complete Ch14
+- Complete Ch15
+- Complete Ch16
+- Complete Ch17
+- Complete Ch18
+- Complete Ch19
+- Complete Ch20
+- Complete Ch21
+- Start Rustlings!
