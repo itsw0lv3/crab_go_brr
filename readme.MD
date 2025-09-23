@@ -1,4 +1,4 @@
-# Doing the RustBook
+# Doing the RustBook <img title="Ferris the Crab" alt="Ferris the Crab" src="https://w7.pngwing.com/pngs/114/914/png-transparent-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon-crab.png"> 
 Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.html), from the rust-lang.
 
 ## Completed
