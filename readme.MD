@@ -9,7 +9,7 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
  - [ ] Common Programming Concepts:
    - [X] Variables and Mutability
    - [X] Data Types
-   - [ ] Functions
+   - [X] Functions
    - [ ] Comments
    - [ ] Control Flow
  - [ ] Understanding Ownership
