@@ -102,3 +102,50 @@ fn loop_labes() {
   }
   println!("End count: {count}");
 }
+
+
+// Conditional Loops with while
+fn cond_while() {
+  let mut num = 3;
+
+  while num != 0 {
+    println!("{num}");
+
+    num -= 1;
+  }
+
+  println!("LIFTOFF!!!");
+}
+
+
+// Looping through a collection with for:
+fn for_loop_thro() {
+  let a = [10, 20, 30, 40, 50];
+  let mut index = 0;
+
+  while index < 5 {
+    println!("the value is : {}", a[index]);
+
+    index += 1;
+  }
+}
+
+// Alternative to looping a collection:
+fn for_loop_alt_one() {
+  let a = [10, 20, 30, 40, 50];
+
+  for element in a {
+    println!("the value is: {element}");
+  }
+}
+
+
+fn for_loop_alt_two() {
+  for num in (1..4).rev() {
+    println!("{num}");
+  }
+  println!("LIFTOFF!");
+}
+
+
+

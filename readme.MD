@@ -6,12 +6,12 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
 ## Completed
  - [X] Getting Started
  - [X] Programming a Guessing Game
- - [ ] Common Programming Concepts:
+ - [X] Common Programming Concepts:
    - [X] Variables and Mutability
    - [X] Data Types
    - [X] Functions
    - [X] Comments
-   - [ ] Control Flow
+   - [X] Control Flow
  - [ ] Understanding Ownership
 
 ## TODO:
