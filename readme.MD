@@ -16,17 +16,17 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
    - [X] What is Ownership?
    - [X] References and Borrowing
    - [X] The Slice Type
- - [ ] Using Structs to Structure Related Data
-   - [ ] Defining and Instantiating Structs
-   - [ ] An Example Program Using Structs
-   - [ ] Method Syntax
+ - [X] Using Structs to Structure Related Data
+   - [X] Defining and Instantiating Structs
+   - [X] An Example Program Using Structs
+   - [X] Method Syntax
 
 ## TODO:
 - ~~Complete Ch01~~
 - ~~Complete Ch02~~
 - ~~Complete Ch03~~
 - ~~Complete Ch04~~
-- Complete Ch05
+- ~~Complete Ch05~~
 - Complete Ch06
 - Complete Ch07
 - Complete Ch08
