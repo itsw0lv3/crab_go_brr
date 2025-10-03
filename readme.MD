@@ -20,10 +20,10 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
    - [X] Defining and Instantiating Structs
    - [X] An Example Program Using Structs
    - [X] Method Syntax
- - [ ] Enums and Pattern Matching
-   - [ ] Defining an Enum
-   - [ ] The match Control Flow Construct
-   - [ ] Concise Control Flow with if let and let else
+ - [X] Enums and Pattern Matching
+   - [X] Defining an Enum
+   - [X] The match Control Flow Construct
+   - [X] Concise Control Flow with if let and let else
 
 ## TODO:
 - ~~Complete Ch01~~
@@ -31,7 +31,7 @@ Working through the [Rustbook](https://doc.rust-lang.org/stable/book/title-page.
 - ~~Complete Ch03~~
 - ~~Complete Ch04~~
 - ~~Complete Ch05~~
-- Complete Ch06
+- ~~Complete Ch06~~
 - Complete Ch07
 - Complete Ch08
 - Complete Ch09
